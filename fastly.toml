@@ -1,0 +1,14 @@
+# This file describes a Fastly Compute@Edge package. To learn more visit:
+# https://developer.fastly.com/reference/fastly-toml/
+
+authors = ["will@fastly.com"]
+description = "An empty starter kit project template."
+language = "rust"
+manifest_version = 2
+name = "rust-redirects-usecase"
+service_id = ""
+
+[local_server]
+  [local_server.backends]
+    [local_server.backends.origin]
+      url = "https://httpbin.org"

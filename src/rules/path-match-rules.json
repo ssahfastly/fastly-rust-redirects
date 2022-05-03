@@ -1,0 +1,10 @@
+[
+  ["/about", "/about-us"],
+  ["/something", "/anything"],
+  ["/contact", "/contact-us"],
+  ["/faq", "/faq-page"],
+  ["/privacy", "/privacy-policy"],
+  ["/terms", "/terms-of-use"],
+  ["/careers", "/join-us"],
+  ["/sitemap.xml", "/sitemap"]
+]
